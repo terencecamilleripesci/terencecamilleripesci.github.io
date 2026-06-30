@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "mt.jespers.delivery",
-        "sha256_cert_fingerprints": ["5A:59:A1:14:CB:7B:F6:28:25:C1:A1:C5:24:DF:88:0F:33:FB:95:2D:0D:E0:A6:57:9B:3D:38:92:AD:02:C5:88"]
+        "sha256_cert_fingerprints": ["2D:4B:B6:F2:E2:6E:BE:6F:26:1B:56:6F:2A:11:C2:FE:6A:E8:9C:CD:0F:62:3C:94:D7:6C:2C:1B:F7:67:7F:DD"]
       }
     }]

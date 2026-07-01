@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "mt.jespers.delivery",
-        "sha256_cert_fingerprints": ["2D:4B:B6:F2:E2:6E:BE:6F:26:1B:56:6F:2A:11:C2:FE:6A:E8:9C:CD:0F:62:3C:94:D7:6C:2C:1B:F7:67:7F:DD"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mt.jespers.delivery",
+      "sha256_cert_fingerprints": ["2D:4B:B6:F2:E2:6E:BE:6F:26:1B:56:6F:2A:11:C2:FE:6A:E8:9C:CD:0F:62:3C:94:D7:6C:2C:1B:F7:67:7F:DD"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mt.pastizzi.crush",
+      "sha256_cert_fingerprints": ["EA:EF:FF:90:85:A3:78:66:26:0D:CA:80:7E:BA:F6:57:57:E7:AB:7D:DA:41:EC:CD:18:72:9D:6E:C0:69:F2:BF"]
+    }
+  }
+]
